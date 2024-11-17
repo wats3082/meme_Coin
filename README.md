@@ -61,4 +61,4 @@ eer Network**:
 
 This example is a simplified implementation. In practice, there are more considerations to handle (e.g., security, scalability, peer discovery), but this script offers a basic and educational framework for understanding blockchain development.
 
-Let me know if you want to dive deeper into any part of it!
+
